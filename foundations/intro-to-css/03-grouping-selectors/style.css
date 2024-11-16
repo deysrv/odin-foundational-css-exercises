@@ -1,0 +1,12 @@
+.btn{
+    font-size: 28px;
+    font-family: Helvetica,"Times New Roman","Sans-serif";
+}
+.short{
+    background-color: black;
+    color: white;
+}
+.long{
+    background-color: yellow;
+    color: black;
+}
